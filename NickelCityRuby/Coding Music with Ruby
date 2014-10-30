@@ -1,4 +1,16 @@
 Coding Music with Ruby
 David Padilla
 
-liw3c0derLive 
+liv3c0derLive  - js
+banjo - ruby
+- Event Machine - run inside Banjo
+- UniMIDI
+
+
+Things to do:
+- Does it work on Linux
+- Duration of Notes
+- Write a CLI
+- Imporve the docs
+
+github.com/dabit/banjo
